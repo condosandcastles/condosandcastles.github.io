@@ -1,0 +1,47 @@
+.color-gold{
+	color:#AA8E39;
+}
+
+.background-color-gold{
+	background: #AA8E39;
+}
+
+.color-gold2{
+	color:#AA7F00;
+}
+
+.background-color-gold2 {
+	background: #AA8515;
+}
+
+.background-color-gold3 {
+	background: #AAA081;
+}
+
+.color-grey1{
+	color:#A79C7E;
+}
+
+.new-font {
+	font-family: 'Dancing Script', cursive;
+}
+
+.mr-0 {
+	margin-right: 0;
+}
+
+.background-color-red{
+	border-top: 20px solid red;
+	border-right: 20px solid red;
+	border-left: 20px solid red;
+	padding-top: 15px
+}
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  
+}
